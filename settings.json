@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thedivinesmp.aternos.me:40976",
+    "ip": "thedivinesmp.aternos.me",
     "port": 40976,
     "version": "",
     "try-creative": false
