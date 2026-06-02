@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "thedivinesmp.aternos.me:40976",
+    "port": 40976,
     "version": "",
     "try-creative": false
   },
